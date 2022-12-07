@@ -1,4 +1,4 @@
-package refactoring.chapter7.s02_move_field;
+package refactoring.chapter07.s02_move_field;
 
 public class Account {
 
