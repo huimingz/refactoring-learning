@@ -1,4 +1,4 @@
-package refactoring.chapter7.move_method;
+package refactoring.chapter7.s01_move_method;
 
 public class Account {
 
